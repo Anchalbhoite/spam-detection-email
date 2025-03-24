@@ -1,0 +1,7 @@
+# Ignore virtual environment and model files
+venv/
+__pycache__/
+*.pkl
+*.csv
+.env
+*.zip
